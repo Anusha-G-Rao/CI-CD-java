@@ -17,7 +17,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
     <br>
-
+    <label for="email"><b>Repeat your Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
+    <br>
     <label for="psw"><b>Enter Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
